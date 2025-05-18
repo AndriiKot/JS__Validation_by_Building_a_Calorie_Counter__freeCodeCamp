@@ -1,9 +1,7 @@
-﻿!*.html
+﻿node_modules/
+!*.html
 !*.png
 !**/*.svg
-*.log
-.DS_Store
-
 
 
 
